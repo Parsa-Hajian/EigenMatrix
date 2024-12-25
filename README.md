@@ -1,4 +1,4 @@
-# Eigen Matrix
+# Finding the Eigen Matrix, Eigan Values and Determinant of a 3x3 Matrix
 Finding Eigen Matrix, Eigen Values and Determinant of a Matrix.
 # Eigen Values
 The eigenvalues of matrix are scalars by which some vectors (eigenvectors) change when the matrix (transformation) is applied to it.
